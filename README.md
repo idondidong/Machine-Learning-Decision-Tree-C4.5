@@ -1,2 +1,2 @@
-# sppam
-sppam c4.5
+# Machine Learning With Decision Tree C4.5
+
